@@ -1,4 +1,4 @@
-<h1 align="center">Yilmaz Game Studio</h1>
+<h1 align="center">EUSTORE Game Studio</h1>
 <p align="center"><b>Different games, one goal: a good time.</b></p>
 
 <p align="center">
