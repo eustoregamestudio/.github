@@ -22,12 +22,12 @@ to spend your time.
 
 ## 🎮 Live games
 
-### [Tostik Town](https://yilmazgamestudio.github.io/tostik-town/)
+### [Tostik Town](https://eustoregamestudio.github.io/tostik-town/)
 
 A top-down toastie shop game for the browser. Press every toastie by hand,
 serve the neighborhood and grow your tiny shop.
 
-**[▶ Play now](https://yilmazgamestudio.github.io/tostik-town/)**
+**[▶ Play now](https://eustoregamestudio.github.io/tostik-town/)**
 
 ## 🃏 Serving the game
 
