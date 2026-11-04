@@ -29,6 +29,14 @@ serve the neighborhood and grow your tiny shop.
 
 **[▶ Play now](https://eustoregamestudio.github.io/tostik-town/)**
 
+### [Crooked Manor](https://eustore.games/games/crooked-manor)
+
+An ink-on-paper platformer set in a manor that keeps trying to trick you.
+Every trap shows its tell, every room has a way out, and a solver proves it.
+14 rooms in two wings, five lives per wing, in Turkish and English.
+
+**[▶ Play now](https://eustore.games/play/crooked-manor)**
+
 ## 🃏 Serving the game
 
 ### [King Skor Takip](https://kingskortakip.com.tr/)
