@@ -22,20 +22,60 @@ to spend your time.
 
 ## 🎮 Live games
 
-### [Tostik Town](https://eustoregamestudio.github.io/tostik-town/)
+Every game has its own door at **[eustore.games](https://eustore.games/games/)**.
+They all run in the browser, on a computer or a phone, in Turkish and English.
 
-A top-down toastie shop game for the browser. Press every toastie by hand,
-serve the neighborhood and grow your tiny shop.
+### 🌐 Web Door
 
-**[▶ Play now](https://eustoregamestudio.github.io/tostik-town/)**
+#### [Tostik Town](https://eustore.games/games/tostik-town/)
 
-### [Crooked Manor](https://eustore.games/games/crooked-manor)
+A little toastie shop in a back street. Press every toastie by hand, serve the
+neighbourhood and grow your tiny shop.
+
+**[▶ Play now](https://eustore.games/play/tostik-town/)**
+
+#### [Garden Rescue](https://eustore.games/games/garden-rescue/)
+
+Grandma Nermin left you her seaside house and a garden lost under years of
+weeds. Pull, rake and water it back to life until the bougainvillea at the
+gate blooms again.
+
+**[▶ Play now](https://eustore.games/play/garden-rescue/)**
+
+#### [Wobble Road](https://eustore.games/games/wobble-road/)
+
+An endless sunset road, one motorcycle and a balance that never quite
+settles. How many levels can you ride?
+
+**[▶ Play now](https://eustore.games/play/wobble-road/)**
+
+#### [Crooked Manor](https://eustore.games/games/crooked-manor/)
 
 An ink-on-paper platformer set in a manor that keeps trying to trick you.
 Every trap shows its tell, every room has a way out, and a solver proves it.
-14 rooms in two wings, five lives per wing, in Turkish and English.
+14 rooms in two wings, five lives per wing.
 
-**[▶ Play now](https://eustore.games/play/crooked-manor)**
+**[▶ Play now](https://eustore.games/play/crooked-manor/)**
+
+### 📱 Mobile Door
+
+#### [Galactic Jump](https://eustore.games/games/galactic-jump/)
+
+You are a tiny satellite circling a planet. One tap breaks you out of orbit:
+catch the next planet, or drift off into space for good. Twenty levels in
+four chapters, and a challenge code to race up to five friends.
+
+**[▶ Play now](https://eustore.games/play/galactic-jump/)**
+
+### 👨‍👩‍👧 Family & Friends Door
+
+#### [Nine Tiles](https://eustore.games/games/nine-tiles/)
+
+The street game every Turkish neighbourhood knows. Knock down the tower of
+nine tiles, then stack it back up before the other team hits you with the
+ball. Play the computer, or open an online room and send the code to a friend.
+
+**[▶ Play now](https://eustore.games/play/nine-tiles/)**
 
 ## 🃏 Serving the game
 
